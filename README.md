@@ -58,6 +58,8 @@ or
 cd InstaPy
 python setup.py install
 ```
+Make sure to download the chrome driver into the assets folder, the driver is available for Windows, Mac, and Linux
+https://chromedriver.storage.googleapis.com/index.html?path=2.29/
 
 If you want the script to get the username and password for your environment, you can do:
 
